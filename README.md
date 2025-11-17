@@ -1,11 +1,11 @@
 # Big-Ideas-Project-Group32
 
 **Team Name** 
-team name goes here <-
+DataBurgh
 
 **Team members**
 * Diego Carranza - dec218@pitt.edu
-* Pahul Sachdev - 
+* Pahul Sachdev - pas425@pitt.edu
 * Ayo Osho - 
 
 **Datasets used**
