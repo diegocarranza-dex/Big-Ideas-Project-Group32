@@ -1,7 +1,6 @@
 # Big-Ideas-Project-Group32
 
-**Team Name** 
-DataBurgh
+**Team name - DataBurgh** 
 
 **Team members**
 * Diego Carranza - dec218@pitt.edu
