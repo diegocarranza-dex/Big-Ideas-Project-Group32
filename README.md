@@ -5,7 +5,7 @@
 **Team members**
 * Diego Carranza - dec218@pitt.edu
 * Pahul Sachdev - pas425@pitt.edu
-* Ayo Osho - 
+* Ayo Osho - aoo60@pitt.edu
 
 **Datasets used**
 * Pittsburgh Public Schools Enrollment by Neighborhood, School, and Feeder Pattern 
